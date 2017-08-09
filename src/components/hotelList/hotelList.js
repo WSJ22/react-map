@@ -1,9 +1,3 @@
-/**
- * Created by qoder on 16-5-9.
- */
-/**
- * Created by qoder on 16-5-9.
- */
 const React = require('react');
 const Hotel = require('../hotel/hotel');
 
